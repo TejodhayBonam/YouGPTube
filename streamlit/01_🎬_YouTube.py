@@ -6,7 +6,7 @@ import os
 from gptube import generate_answer, generate_summary, video_info, is_valid_openai_key, is_valid_youtube_url, get_video_duration, calculate_api_cost
 from elevenlabs import generate, set_api_key
 
-st.set_page_config(page_title="GPTube", page_icon='🎬')
+st.set_page_config(page_title="YouGPTube", page_icon='🎬')
 
 set_api_key(st.secrets["ELEVENLABS_API_KEY"])
 
@@ -14,7 +14,7 @@ set_api_key(st.secrets["ELEVENLABS_API_KEY"])
 def youtube_app():
 
     with st.sidebar:
-        st.markdown("### 🎥 GPTube: Your Shortcut to Video Insights")
+        st.markdown("### 🎥 YouGPTube: Your Shortcut to Video Insights")
 
         st.video("https://www.youtube.com/watch?v=uuuv3ooY1WQ")
 
@@ -26,9 +26,8 @@ def youtube_app():
         
         st.markdown("####")
 
-        st.markdown("📝 [Medium Article](https://medium.com/@hamza.lbelghiti/how-openai-whisper-and-langchain-can-answer-any-question-you-have-from-a-youtube-video-278d04cc3460)")
-        st.markdown("💻 Source code on [GitHub](https://github.com/Hamagistral/GPTube)")
-        st.markdown("👨‍💻 Made by [Hamza El Belghiti](https://www.linkedin.com/in/hamza-elbelghiti/)")
+        st.markdown("💻 Source code on [GitHub](https://github.com/TejodhayBonam/YouGPTube)")
+        st.markdown("👨‍💻 Made by [Tejodhay Bonam](https://www.linkedin.com/in/tejodhay-bonam-66b3661b0/)")
 
     st.markdown('## 🎬 Talk with YouTube Videos') 
 
