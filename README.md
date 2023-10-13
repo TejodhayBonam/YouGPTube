@@ -1,17 +1,13 @@
 <div align="center">
   <div id="user-content-toc">
     <ul>
-      <summary><h1 style="display: inline-block;">🎥 GPTube</h1></summary>
+      <summary><h1 style="display: inline-block;">🎥 YouGPTube</h1></summary>
     </ul>
   </div>
   
   <p>Youtube Video Summarizer and Question Answering App Using Whisper and Langchain</p>
   <p>Podcast and Meeting Summarizer using AssemblyAI</p>
     <a href="https://www.youtube.com/watch?v=uuuv3ooY1WQ" target="_blank">Video Demo</a>
-    🌠
-    <a href="https://medium.com/@hamza.lbelghiti/how-openai-whisper-and-langchain-can-answer-any-question-you-have-from-a-youtube-video-278d04cc3460" target="_blank">Blog Post</a>
-    🌌
-    <a href="https://github.com/Hamagistral/GPTube/issues" target="_blank">Request Feature</a>
 </div>
 <br>
 <div align="center">
