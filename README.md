@@ -7,7 +7,6 @@
   
   <p>Youtube Video Summarizer and Question Answering App Using Whisper and Langchain</p>
   <p>Podcast and Meeting Summarizer using AssemblyAI</p>
-    <a href="https://www.youtube.com/watch?v=uuuv3ooY1WQ" target="_blank">Video Demo</a>
 </div>
 <br>
 <div align="center">
