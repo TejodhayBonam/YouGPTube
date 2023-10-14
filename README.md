@@ -65,7 +65,7 @@ cd streamlit/
 streamlit run 01_🎬_YouTube.py
 ```
 
-3. Go to your localhost : http://localhost:8502/
+3. Go to your localhost : http://localhost:8501/
 
 3. Enter the OpenAI API Key followed by YouTube video URL and the question you want to ask.
 
