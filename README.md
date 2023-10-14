@@ -16,7 +16,7 @@
 
 <hr>
 
-![image](https://github.com/TejodhayBonam/YouGPTube.jpg)
+![image](YouGPTube.jpg)
 
 ### 🎯 Motivation :
 
