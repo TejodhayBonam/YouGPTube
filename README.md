@@ -10,7 +10,7 @@
 </div>
 <br>
 <div align="center">
-      <a href="https://gptube-ai.streamlit.app/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"/></a>
+      <a><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"/></a>
       <img src="https://img.shields.io/github/stars/hamagistral/gptube?color=blue&style=social"/>
 </div>
 
