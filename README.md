@@ -42,7 +42,7 @@ For the YouTube part, the project is built on OpenAI's Whisper API, which is a S
 1. Clone the repository:
 
 ```
-git clone https://github.com/Hamagistral/GPTube.git
+git clone https://github.com/TejodhayBonam/YouGPTube.git
 ```
 
 2. Install the required packages:
@@ -73,6 +73,5 @@ streamlit run 01_🎬_YouTube.py
 
 ## 📨 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
-[Website](https://hamagistral.me) •
-[Gmail](hamza.lbelghiti@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tejodhay-bonam-66b3661b0/) •
+[Website](http://www.tejodhay.com/) •
