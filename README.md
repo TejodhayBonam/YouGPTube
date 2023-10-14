@@ -16,7 +16,7 @@
 
 <hr>
 
-![image](https://github.com/Hamagistral/GPTube/assets/66017329/30a0ab1c-3d57-4f0e-9fab-aaf8e64b29c8)
+![image](https://github.com/TejodhayBonam/YouGPTube.jpg)
 
 ### 🎯 Motivation :
 
